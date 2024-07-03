@@ -1,1 +1,2 @@
-# -otus-mssql-Natalia
+Домашние задания курса OTUS "MS SQL Server Developer".
+Группа 2024-06.
